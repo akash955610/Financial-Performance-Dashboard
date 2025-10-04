@@ -1,0 +1,53 @@
+					Western Countries Financial Data
+
+Overall Performance:
+·	Total Sales (118.73M)
+·	Total Unit Sold (1.13M)
+·	Total Profit (16.89M)
+·	Profit Margin % (14%) Which is moderate and indicates scope for better cost optimization.
+
+Product Performance:
+·	Top Selling Product - Paseo ($33M)
+·	Lowest selling Product - Carretera ($14M)
+
+Profit by Bottom: 
+·	Carretera (1.8M)
+·	Montana (2.1M)
+·	Velo (2.3M)
+·	
+Discount by Products:
+·	Paseo (2.6M)
+·	Velo (1.6M)
+·	VTT (1.5M)
+
+Yearly Quarterly Performance:
+·	Sales Growth Sales jumped from 26M in 2013 to 92M in 2014, indicating a 254% growth.
+·	Profit Growth Profit increased from 3.9M in 2013 to 13M in 2014, showing a positive upward trend.
+·	Qtr4 is Best quarter with $52M sales and $8M profit (Peak).
+·	Qtr1 is a Weakest quarter with $19M sales and $3M Profit.
+Recommendation: Leverage Q4 trends for future promotions and stock planning.
+Insight: The business scaled effectively year-over-year.
+
+Country-wise Insights:
+·	United States and Canada lead with 25M each in sales.
+·	France and Germany are close at 24M each, while Mexico lags at 21M.
+Opportunity: Focus on strategies to increase Mexico’s sales.
+Top 2 Selling Countries: United States of America & Canada.
+
+Product-wise Insights:
+·	Best-selling Product Paseo (33M) followed by VTT (21M).
+·	Least-selling Products Carretera (14M), Montana (15M), and Amarilla (18M).
+Discount Analysis: Paseo receives the highest discounts (2.6M), which may indicate aggressive promotional campaigns.
+
+Segment-wise Insights:
+·	Highest Profit Segment Government (11.39M; 65.04%).
+·	Lowest Profit Segment Midmarket(0.66M; 3.77%).
+·	loss in Enterprise (-0.6M)
+Insight: Government segment is highest Profitable segment and Enterprise Segment is loss making Segment.
+
+Key Recommendations:
+·	Focus on Profit Margins: Explore cost reduction or price optimization for low-margin products and segments.
+·	Boost Under performing Regions: Create targeted strategies for Mexico to match other countries’ performance.
+·	Optimize Discounts: Review high discount levels, especially for Paseo, to see if they are necessary or could be optimized.
+·	Leverage Q4 Trends: Allocate more inventory and marketing budget to capitalize on Q4 demand surge.
+·	Deep-dive into Enterprise Segment: Investigate why enterprise sales yield low or negative profits for certain products.
